@@ -24,6 +24,10 @@ dispTree(root);
 
 Output : 
 
+
+![](./images/normal_tree.png)
+
+
 ```C++
 RBNode* root = createRBNode(10);
 root->color = BLACK; // Root must be black
@@ -49,6 +53,7 @@ dispTree(root);
 
 Output : 
 
+![](./images/RB_tree.png)
 
 ## Installation
 There are two ways to install library, if you do not know what to choose, simply follow "Single header file" installation.

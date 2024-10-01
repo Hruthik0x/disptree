@@ -136,7 +136,6 @@ static const unsigned char jsCode2[] = {
 };
 static const unsigned int jsCode2Len = 754;
 
-
 /***************************/
 /*       Variables         */
 /***************************/
