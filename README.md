@@ -1,3 +1,4 @@
+## This branch is stable but is no longer being maintained.
 # Disptree
 Note : Tested on Linux, gcc and g++
 
